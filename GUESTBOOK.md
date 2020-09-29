@@ -10,3 +10,6 @@ If you're stuck, check out the [README](./README.md) file/homepage for instructi
 
 ### Shubham Jain
 I loooveeeeee the [Chuck](https://www.nbc.com/chuck) TV series.
+
+### Brian Min
+HEYYA check out my [website](https://bymi15.github.io) 😆
