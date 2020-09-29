@@ -4,5 +4,9 @@ Let's get to know each other! Submit a [**pull request**](https://github.com/shu
 
 Remember: you need to [**fork** the repo](https://github.com/shu8/ucl-cs-2020-guestbook/fork) before you can edit files or submit pull requests!
 
+If you're stuck, check out the [README](./README.md) file/homepage for instructions and details on how to get help if needed!
+
+# Entries
+
 ### Shubham Jain
 I loooveeeeee the [Chuck](https://www.nbc.com/chuck) TV series.
