@@ -37,9 +37,9 @@ I loooveeeeee the [Chuck](https://www.nbc.com/chuck) TV series
 
 If you can't remember, these are the steps you'll need to take to add your name to the Guestbook:
 
-1. Go to the repository on GitHub at https://github.com/shu8/ucl-cs-2020-guestbook
+1. Go to the repository on GitHub at <https://github.com/shu8/ucl-cs-2020-guestbook>
 
-2. Fork the repository using the "fork" button at the top right of the repo, or using this URL: https://github.com/shu8/ucl-cs-2020-guestbook/fork
+2. Fork the repository using the "fork" button at the top right of the repo, or using this URL: <https://github.com/shu8/ucl-cs-2020-guestbook/fork>
 
 3. Clone the forked repository (**only needed if you are using the command line**):
 
@@ -50,7 +50,7 @@ If you can't remember, these are the steps you'll need to take to add your name 
 4. If you're:
 
     - **using the command line**: make your changes using your favourite text editor
-    - **using the GitHub interface**: find the `GUESTBOOK.md` file in the list of files (https://github.com/YOUR-USERNAME/ucl-cs-2020-guestbook/blob/main/GUESTBOOK.md), click the pencil "edit" icon at the top right of the file, and make your changes
+    - **using the GitHub interface**: find the `GUESTBOOK.md` file in the list of files (<https://github.com/YOUR-USERNAME/ucl-cs-2020-guestbook/blob/main/GUESTBOOK.md>), click the pencil "edit" icon at the top right of the file, and make your changes
 
 5. If you're:
 
@@ -59,9 +59,9 @@ If you can't remember, these are the steps you'll need to take to add your name 
 
 6. If you're using the command line, you'll need to push your changes: `git push origin main`.
 
-7. Make your pull request! Go to https://github.com/shu8/ucl-cs-2020-guestbook/compare and choose "compare across forks", find your forked repo, and submit! One of the Senior Programming Tutors (myself, Shirin, Brian, or Ethan) will accept your Pull Request as soon as possible!
+7. Make your pull request! Go to <https://github.com/shu8/ucl-cs-2020-guestbook/compare> and choose "compare across forks", find your forked repo, and submit! One of the Senior Programming Tutors (myself, Shirin, Brian, or Ethan) will accept your Pull Request as soon as possible!
 
-You can find the final Guestbook as a webpage at https://shu8.github.io/ucl-cs-2020-guestbook/GUESTBOOK.html!
+You can find the final Guestbook as a webpage at <https://shu8.github.io/ucl-cs-2020-guestbook/GUESTBOOK.html>!
 
 ### Demos
 
@@ -75,4 +75,4 @@ If you're using the GitHub interface:
 
 ### Where to get help
 
-If you're having any problems following these steps, feel free to **make an issue** at https://github.com/shu8/ucl-cs-2020-guestbook/issues/new -- this will let any one of the Senior Programming Tutors see your issue and reply to you as soon as possible!
+If you're having any problems following these steps, feel free to **make an issue** at <https://github.com/shu8/ucl-cs-2020-guestbook/issues/new> -- this will let any one of the Senior Programming Tutors see your issue and reply to you as soon as possible!
