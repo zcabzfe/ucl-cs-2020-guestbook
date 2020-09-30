@@ -17,5 +17,11 @@ HEYYA check out my [website](https://bymi15.github.io) 😆
 ### Alex Nathanail
 ![](https://i.redd.it/hqculc19byl11.jpg)
 
+### Suraj Kothari
+I love Chrisopher Nolan movies!!!
+
+### Arslan Aftab
+Guess who's back, back again...
+
 ### g
 i am the people's g
