@@ -34,3 +34,6 @@ Hey check out my app if you have Android! [Trickshott](https://play.google.com/s
 
 ### Suhail Merali
 [idk what to put here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### Elliot Feng
+BIG FAN OF LAKERS, LOGIC, J.COLE, AND CS OF COURSE....... ALSO LOVE EDITING VIDEOS!!
