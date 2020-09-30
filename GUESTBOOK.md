@@ -14,5 +14,17 @@ I loooveeeeee the [Chuck](https://www.nbc.com/chuck) TV series.
 ### Brian Min
 HEYYA check out my [website](https://bymi15.github.io) 😆
 
+### Alex Nathanail
+![](https://i.redd.it/hqculc19byl11.jpg)
+
+### Suraj Kothari
+I love Chrisopher Nolan movies!!!
+
+### Arslan Aftab
+Guess who's back, back again...
+
+### g
+i am the people's g
+
 ### Jay Ong
 G'day all!! Hope you guys have some long arms so you can carry me through this course!!
